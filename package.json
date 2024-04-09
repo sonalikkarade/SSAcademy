@@ -1,26 +1,16 @@
 {
-  "name": "ckeditor",
-  "version": "4.12.1",
-  "description": "JavaScript WYSIWYG web text editor.",
-  "main": "ckeditor.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ckeditor/ckeditor-releases.git"
-  },
-  "keywords": [
-    "ckeditor",
-    "fckeditor",
-    "editor",
-    "wysiwyg",
-    "html",
-    "richtext",
-    "text",
-    "javascript"
-  ],
-  "author": "CKSource (http://cksource.com/)",
-  "license": "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)",
-  "bugs": {
-    "url": "http://dev.ckeditor.com"
-  },
-  "homepage": "http://ckeditor.com"
+    "name": "components-jqueryui",
+    "description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
+    "version": "1.12.1",
+    "homepage": "http://jqueryui.com",
+    "author": {
+        "name": "jQuery Foundation and other contributors",
+        "url": "https://github.com/jquery/jquery-ui/blob/master/AUTHORS.txt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/components/jqueryui.git"
+    },
+    "main": "jquery-ui.js",
+    "license": "MIT"
 }

@@ -1,14 +1,13 @@
 {
-  "name": "jquery",
-  "main": "dist/jquery.js",
-  "license": "MIT",
-  "ignore": [
-    "package.json"
+  "name": "jquery-ui",
+  "version": "1.12.1",
+  "main": [
+    "jquery-ui.js"
   ],
-  "keywords": [
-    "jquery",
-    "javascript",
-    "browser",
-    "library"
-  ]
+  "ignore": [
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
 }

@@ -1,19 +1,13 @@
 {
-    "repo": "driftyco/ionicons",
-    "development": {},
-    "version": "2.0.0",
-    "styles": [
-        "css/ionicons.css"
-    ],
-    "name": "Ionicons",
-    "dependencies": {},
-    "keywords": [],
-    "license": "MIT",
-    "fonts": [
-        "fonts/ionicons.eot",
-        "fonts/ionicons.svg",
-        "fonts/ionicons.ttf",
-        "fonts/ionicons.woff"
-    ],
-    "description": "The premium icon font for Ionic Framework."
+  "name": "jquery-ui",
+  "repo": "components/jqueryui",
+  "version": "1.12.1",
+  "license": "MIT",
+  "scripts": [
+    "jquery-ui.js"
+  ],
+  "main": "jquery-ui.js",
+  "dependencies": {
+    "components/jquery": "*"
+  }
 }
