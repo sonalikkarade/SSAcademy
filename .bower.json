@@ -1,29 +1,40 @@
 {
-  "name": "ckeditor",
-  "description": "JavaScript WYSIWYG web text editor.",
-  "keywords": [
-    "ckeditor",
-    "fckeditor",
-    "editor",
-    "wysiwyg",
-    "html",
-    "richtext",
-    "text",
-    "javascript"
+  "ignore": [
+    "**/.*",
+    "builder",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
-  "authors": "CKSource (http://cksource.com/)",
-  "license": "For licensing, see LICENSE.md or http://ckeditor.com/license.",
-  "homepage": "http://ckeditor.com",
-  "main": "./ckeditor.js",
-  "moduleType": "globals",
-  "version": "4.12.1",
-  "_release": "4.12.1",
+  "version": "2.0.1",
+  "name": "Ionicons",
+  "license": "MIT",
+  "authors": [
+    "Ben Sperry <ben@drifty.com>",
+    "Adam Bradley <adam@drifty.com>",
+    "Max Lynch <max@drifty.com>"
+  ],
+  "keywords": [
+    "fonts",
+    "icon font",
+    "icons",
+    "ionic",
+    "web font"
+  ],
+  "main": [
+    "css/ionicons.css",
+    "fonts/*"
+  ],
+  "homepage": "https://github.com/driftyco/ionicons",
+  "description": "Ionicons - free and beautiful icons from the creators of Ionic Framework",
+  "_release": "2.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "4.12.1",
-    "commit": "b1a25e93ae0b038f45dcba458f4c2c18bd7318e5"
+    "tag": "v2.0.1",
+    "commit": "ecb4b806831005c25b97ed9089fbb1d7dcc0879c"
   },
-  "_source": "https://github.com/ckeditor/ckeditor-releases.git",
-  "_target": "^4.7",
-  "_originalSource": "ckeditor"
+  "_source": "https://github.com/driftyco/ionicons.git",
+  "_target": "^2.0.1",
+  "_originalSource": "ionicons"
 }
